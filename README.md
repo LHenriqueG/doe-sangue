@@ -1,20 +1,18 @@
-DOE SANGUE
--
+<h1 align="center"> DoeSangue </h1>
 
 PT-BR
 -
-Projeto desenvolvido durante a MaratonaDev 3.0 da RocketSeat, ministrada pelo Mayk Brito.
-Simples e para aplicar os conhecimentos que têm em nodejs, html, javascript, css, postgresql.
+<p align="justify"> Projeto desenvolvido durante a <strong>MaratonaDev 3.0</strong> da RocketSeat, ministrada pelo Mayk Brito. Uma aplicação simples para aqueles que estão começando com o desenvolvimento web e com isso aplicar algumas funcionalidades do <strong>NodeJS, HTML, JavaScript, CSS e a integração com o Banco de dados, o PostgreSQL.</strong> </p>
 
-Tecnologias utilizadas:
+:rocket: Tecnologias utilizadas:
 
-* HTML
-* CSS
-* JavaScript
-* NodeJS
-* PostgreSQL
-* NunJucks
-* Express
+* :white_check_mark: HTML
+* :white_check_mark: CSS
+* :white_check_mark: JavaScript
+* :white_check_mark: NodeJS
+* :white_check_mark: PostgreSQL
+* :white_check_mark: NunJucks
+* :white_check_mark: Express
 
 
 EN
@@ -25,10 +23,10 @@ Simple and to apply the knowledge you have in nodejs, html, javascript, css, pos
 
 Technologies used:
 
-* HTML
-* CSS
-* JavaScript
-* NodeJS
-* PostgreSQL
-* NunJucks
-* Express
+* :white_check_mark: HTML
+* :white_check_mark: CSS
+* :white_check_mark: JavaScript
+* :white_check_mark: NodeJS
+* :white_check_mark: PostgreSQL
+* :white_check_mark: NunJucks
+* :white_check_mark: Express
